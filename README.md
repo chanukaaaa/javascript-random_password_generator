@@ -16,7 +16,7 @@ This web application allows users to generate random passwords with a combinatio
 
 - Clone the repository:
 
-    git clone https://github.com/your-username/random-password-generator.git
+    git clone https://github.com/chanukaaaa/javascript-random_password_generator.git
 
     Open the index.html file in your preferred web browser.
 
