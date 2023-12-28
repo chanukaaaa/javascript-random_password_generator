@@ -29,7 +29,7 @@ This web application allows users to generate random passwords with a combinatio
 Password displaying Window
 ![Screenshot 1](/images/screenshots/1.png)
 
-After clicking "Generate" utton
+After clicking "Generate" button
 ![Screenshot 2](/images/screenshots/2.png)
 
 After copying the password
